@@ -1,0 +1,14 @@
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.exe
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.deps.json
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.dll
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.pdb
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.dll
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\refint\04concatenacao.dll
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.pdb
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\ref\04concatenacao.dll

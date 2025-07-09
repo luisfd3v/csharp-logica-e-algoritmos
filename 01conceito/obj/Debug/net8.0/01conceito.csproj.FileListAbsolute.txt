@@ -1,0 +1,14 @@
+C:\repos\dotnet\logica-e-algoritmos\01conceito\bin\Debug\net8.0\01conceito.exe
+C:\repos\dotnet\logica-e-algoritmos\01conceito\bin\Debug\net8.0\01conceito.deps.json
+C:\repos\dotnet\logica-e-algoritmos\01conceito\bin\Debug\net8.0\01conceito.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\01conceito\bin\Debug\net8.0\01conceito.dll
+C:\repos\dotnet\logica-e-algoritmos\01conceito\bin\Debug\net8.0\01conceito.pdb
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.dll
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\refint\01conceito.dll
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.pdb
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\01conceito.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\01conceito\obj\Debug\net8.0\ref\01conceito.dll

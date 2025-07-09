@@ -1,0 +1,14 @@
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.exe
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.deps.json
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.dll
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.pdb
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.dll
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\refint\02variaveis.dll
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.pdb
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\ref\02variaveis.dll
