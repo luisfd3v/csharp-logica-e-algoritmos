@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.exe
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.deps.json
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.dll
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.pdb
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.dll
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\refint\10condicional_simples.dll
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.pdb
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\ref\10condicional_simples.dll

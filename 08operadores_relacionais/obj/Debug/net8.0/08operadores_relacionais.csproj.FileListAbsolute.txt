@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\bin\Debug\net8.0\08operadores_relacionais.exe
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\bin\Debug\net8.0\08operadores_relacionais.deps.json
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\bin\Debug\net8.0\08operadores_relacionais.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\bin\Debug\net8.0\08operadores_relacionais.dll
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\bin\Debug\net8.0\08operadores_relacionais.pdb
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.dll
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\refint\08operadores_relacionais.dll
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.pdb
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\08operadores_relacionais.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\08operadores_relacionais\obj\Debug\net8.0\ref\08operadores_relacionais.dll

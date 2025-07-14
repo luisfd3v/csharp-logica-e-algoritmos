@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.exe
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.deps.json
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.dll
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.pdb
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.dll
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\refint\09operadores_logicos.dll
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.pdb
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\09operadores_logicos\obj\Debug\net8.0\ref\09operadores_logicos.dll

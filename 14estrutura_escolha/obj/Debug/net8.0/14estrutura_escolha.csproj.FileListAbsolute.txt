@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.exe
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.deps.json
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.dll
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.pdb
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.dll
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\refint\14estrutura_escolha.dll
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.pdb
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\14estrutura_escolha\obj\Debug\net8.0\ref\14estrutura_escolha.dll
