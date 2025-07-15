@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.exe
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.deps.json
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.dll
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.pdb
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.dll
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\refint\19laco_foreach.dll
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.pdb
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\ref\19laco_foreach.dll

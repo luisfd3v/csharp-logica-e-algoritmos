@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.exe
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.deps.json
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.dll
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.pdb
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.dll
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\refint\15laco_enquanto.dll
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.pdb
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\ref\15laco_enquanto.dll

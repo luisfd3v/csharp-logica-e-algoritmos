@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\20matriz\bin\Debug\net8.0\20matriz.exe
+C:\repos\dotnet\logica-e-algoritmos\20matriz\bin\Debug\net8.0\20matriz.deps.json
+C:\repos\dotnet\logica-e-algoritmos\20matriz\bin\Debug\net8.0\20matriz.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\20matriz\bin\Debug\net8.0\20matriz.dll
+C:\repos\dotnet\logica-e-algoritmos\20matriz\bin\Debug\net8.0\20matriz.pdb
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.dll
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\refint\20matriz.dll
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.pdb
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\20matriz.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\20matriz\obj\Debug\net8.0\ref\20matriz.dll

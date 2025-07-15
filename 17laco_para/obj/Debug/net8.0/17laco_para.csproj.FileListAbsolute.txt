@@ -1,0 +1,15 @@
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\bin\Debug\net8.0\17laco_para.exe
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\bin\Debug\net8.0\17laco_para.deps.json
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\bin\Debug\net8.0\17laco_para.runtimeconfig.json
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\bin\Debug\net8.0\17laco_para.dll
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\bin\Debug\net8.0\17laco_para.pdb
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.AssemblyInfoInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.AssemblyInfo.cs
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.csproj.CoreCompileInputs.cache
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.sourcelink.json
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.dll
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\refint\17laco_para.dll
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.pdb
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\17laco_para.genruntimeconfig.cache
+C:\repos\dotnet\logica-e-algoritmos\17laco_para\obj\Debug\net8.0\ref\17laco_para.dll
